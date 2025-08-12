@@ -1,0 +1,61 @@
+age_group,party,percentage,sample_size
+Gen Z (18-28 years),BNP,35.5,1331
+Gen Z (18-28 years),Bangladesh Jamaat E Islami,34.2,1331
+Gen Z (18-28 years),Awami League,11.3,1331
+Gen Z (18-28 years),Student led new political party,10.1,1331
+Gen Z (18-28 years),Others (specify),3.3,1331
+Gen Z (18-28 years),Islami Andolon Bangladesh,3.7,1331
+Gen Z (18-28 years),Jatiya Party,0.5,1331
+Gen Z (18-28 years),Gono Odhikar Parishad,1.0,1331
+Gen Z (18-28 years),Gono Sanghati Andolon,0.4,1331
+Gen Z (18-28 years),AB Party,0.1,1331
+Millennials (29-44 years),BNP,42.8,1553
+Millennials (29-44 years),Bangladesh Jamaat E Islami,31.2,1553
+Millennials (29-44 years),Awami League,14.4,1553
+Millennials (29-44 years),Student led new political party,3.8,1553
+Millennials (29-44 years),Others (specify),3.9,1553
+Millennials (29-44 years),Islami Andolon Bangladesh,2.3,1553
+Millennials (29-44 years),Jatiya Party,1.1,1553
+Millennials (29-44 years),Gono Odhikar Parishad,0.3,1553
+Millennials (29-44 years),Gono Sanghati Andolon,0.1,1553
+Millennials (29-44 years),AB Party,0.1,1553
+Gen X (45-60 years),BNP,47.0,891
+Gen X (45-60 years),Bangladesh Jamaat E Islami,29.3,891
+Gen X (45-60 years),Awami League,15.7,891
+Gen X (45-60 years),Student led new political party,2.5,891
+Gen X (45-60 years),Others (specify),2.4,891
+Gen X (45-60 years),Islami Andolon Bangladesh,1.1,891
+Gen X (45-60 years),Jatiya Party,1.4,891
+Gen X (45-60 years),Gono Odhikar Parishad,0.2,891
+Gen X (45-60 years),Gono Sanghati Andolon,0.3,891
+Gen X (45-60 years),AB Party,0.1,891
+Boomers II (61-70 years),BNP,46.9,365
+Boomers II (61-70 years),Bangladesh Jamaat E Islami,30.1,365
+Boomers II (61-70 years),Awami League,13.2,365
+Boomers II (61-70 years),Student led new political party,1.4,365
+Boomers II (61-70 years),Others (specify),2.7,365
+Boomers II (61-70 years),Islami Andolon Bangladesh,3.3,365
+Boomers II (61-70 years),Jatiya Party,1.6,365
+Boomers II (61-70 years),Gono Odhikar Parishad,0.3,365
+Boomers II (61-70 years),Gono Sanghati Andolon,0.6,365
+Boomers II (61-70 years),AB Party,0.0,365
+Boomers I (71-79 years),BNP,44.4,171
+Boomers I (71-79 years),Bangladesh Jamaat E Islami,28.1,171
+Boomers I (71-79 years),Awami League,18.1,171
+Boomers I (71-79 years),Student led new political party,1.8,171
+Boomers I (71-79 years),Others (specify),4.1,171
+Boomers I (71-79 years),Islami Andolon Bangladesh,2.3,171
+Boomers I (71-79 years),Jatiya Party,0.6,171
+Boomers I (71-79 years),Gono Odhikar Parishad,0.6,171
+Boomers I (71-79 years),Gono Sanghati Andolon,0.0,171
+Boomers I (71-79 years),AB Party,0.0,171
+Post War (80-97 years),BNP,27.9,43
+Post War (80-97 years),Bangladesh Jamaat E Islami,34.9,43
+Post War (80-97 years),Awami League,32.6,43
+Post War (80-97 years),Student led new political party,2.3,43
+Post War (80-97 years),Others (specify),0.0,43
+Post War (80-97 years),Islami Andolon Bangladesh,0.0,43
+Post War (80-97 years),Jatiya Party,2.3,43
+Post War (80-97 years),Gono Odhikar Parishad,0.0,43
+Post War (80-97 years),Gono Sanghati Andolon,0.0,43
+Post War (80-97 years),AB Party,0.0,43

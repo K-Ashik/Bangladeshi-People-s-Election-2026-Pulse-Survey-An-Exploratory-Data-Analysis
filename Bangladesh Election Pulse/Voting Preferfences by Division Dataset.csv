@@ -1,0 +1,81 @@
+division,party,percentage,sample_size
+Barishal,BNP,39.66,179
+Barishal,Awami League,24.58,179
+Barishal,Jatiya Party,0.00,179
+Barishal,Bangladesh Jamaat E Islami,22.91,179
+Barishal,Islami Andolon Bangladesh,6.15,179
+Barishal,Student led new political party,2.23,179
+Barishal,AB Party,0.00,179
+Barishal,Gono Odhikar Parishad,0.00,179
+Barishal,Gono Sanghati Andolon,0.00,179
+Barishal,Others (specify),4.47,179
+Chattogram,BNP,47.82,803
+Chattogram,Awami League,11.08,803
+Chattogram,Jatiya Party,0.75,803
+Chattogram,Bangladesh Jamaat E Islami,27.27,803
+Chattogram,Islami Andolon Bangladesh,2.24,803
+Chattogram,Student led new political party,7.35,803
+Chattogram,AB Party,0.12,803
+Chattogram,Gono Odhikar Parishad,0.12,803
+Chattogram,Gono Sanghati Andolon,1.00,803
+Chattogram,Others (specify),2.24,803
+Dhaka,BNP,44.71,1002
+Dhaka,Awami League,18.46,1002
+Dhaka,Jatiya Party,0.40,1002
+Dhaka,Bangladesh Jamaat E Islami,25.45,1002
+Dhaka,Islami Andolon Bangladesh,3.49,1002
+Dhaka,Student led new political party,5.39,1002
+Dhaka,AB Party,0.20,1002
+Dhaka,Gono Odhikar Parishad,0.40,1002
+Dhaka,Gono Sanghati Andolon,0.00,1002
+Dhaka,Others (specify),1.50,1002
+Khulna,BNP,38.29,585
+Khulna,Awami League,9.06,585
+Khulna,Jatiya Party,0.17,585
+Khulna,Bangladesh Jamaat E Islami,46.32,585
+Khulna,Islami Andolon Bangladesh,1.37,585
+Khulna,Student led new political party,3.08,585
+Khulna,AB Party,0.00,585
+Khulna,Gono Odhikar Parishad,0.68,585
+Khulna,Gono Sanghati Andolon,0.17,585
+Khulna,Others (specify),0.85,585
+Mymensingh,BNP,44.60,361
+Mymensingh,Awami League,18.28,361
+Mymensingh,Jatiya Party,2.49,361
+Mymensingh,Bangladesh Jamaat E Islami,18.28,361
+Mymensingh,Islami Andolon Bangladesh,2.77,361
+Mymensingh,Student led new political party,6.37,361
+Mymensingh,AB Party,0.00,361
+Mymensingh,Gono Odhikar Parishad,3.32,361
+Mymensingh,Gono Sanghati Andolon,0.28,361
+Mymensingh,Others (specify),3.60,361
+Rajshahi,BNP,42.68,560
+Rajshahi,Awami League,12.86,560
+Rajshahi,Jatiya Party,0.54,560
+Rajshahi,Bangladesh Jamaat E Islami,35.54,560
+Rajshahi,Islami Andolon Bangladesh,1.43,560
+Rajshahi,Student led new political party,6.61,560
+Rajshahi,AB Party,0.00,560
+Rajshahi,Gono Odhikar Parishad,0.00,560
+Rajshahi,Gono Sanghati Andolon,0.00,560
+Rajshahi,Others (specify),0.36,560
+Rangpur,BNP,21.69,521
+Rangpur,Awami League,9.21,521
+Rangpur,Jatiya Party,2.30,521
+Rangpur,Bangladesh Jamaat E Islami,44.91,521
+Rangpur,Islami Andolon Bangladesh,3.07,521
+Rangpur,Student led new political party,3.84,521
+Rangpur,AB Party,0.00,521
+Rangpur,Gono Odhikar Parishad,0.19,521
+Rangpur,Gono Sanghati Andolon,0.19,521
+Rangpur,Others (specify),14.59,521
+Sylhet,BNP,51.02,343
+Sylhet,Awami League,14.87,343
+Sylhet,Jatiya Party,2.62,343
+Sylhet,Bangladesh Jamaat E Islami,25.95,343
+Sylhet,Islami Andolon Bangladesh,1.46,343
+Sylhet,Student led new political party,2.62,343
+Sylhet,AB Party,0.00,343
+Sylhet,Gono Odhikar Parishad,0.00,343
+Sylhet,Gono Sanghati Andolon,0.00,343
+Sylhet,Others (specify),1.46,343

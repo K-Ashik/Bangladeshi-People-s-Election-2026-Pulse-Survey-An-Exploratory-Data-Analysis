@@ -1,0 +1,41 @@
+demographic_category,subcategory,party,percentage,sample_size
+Gender,Male,BNP,42.4,2729
+Gender,Male,Bangladesh Jamaat E Islami,32.6,2729
+Gender,Male,Awami League,13.1,2729
+Gender,Male,Student led new political party,4.9,2729
+Gender,Male,Others (specify),2.2,2729
+Gender,Male,Islami Andolon Bangladesh,2.6,2729
+Gender,Male,Jatiya Party,1.1,2729
+Gender,Male,Gono Odhikar Parishad,0.7,2729
+Gender,Male,Gono Sanghati Andolon,0.3,2729
+Gender,Male,AB Party,0.1,2729
+Gender,Female,BNP,40.6,1616
+Gender,Female,Bangladesh Jamaat E Islami,29.7,1616
+Gender,Female,Awami League,15.4,1616
+Gender,Female,Student led new political party,5.6,1616
+Gender,Female,Others (specify),5.1,1616
+Gender,Female,Islami Andolon Bangladesh,2.5,1616
+Gender,Female,Jatiya Party,0.8,1616
+Gender,Female,Gono Odhikar Parishad,0.2,1616
+Gender,Female,Gono Sanghati Andolon,0.1,1616
+Gender,Female,AB Party,0.0,1616
+Location,Urban,BNP,39.7,921
+Location,Urban,Awami League,12.9,921
+Location,Urban,Jatiya Party,1.3,921
+Location,Urban,Bangladesh Jamaat E Islami,30.4,921
+Location,Urban,Islami Andolon Bangladesh,3.4,921
+Location,Urban,Student led new political party,8.9,921
+Location,Urban,AB Party,0.2,921
+Location,Urban,Gono Odhikar Parishad,0.4,921
+Location,Urban,Gono Sanghati Andolon,0.0,921
+Location,Urban,Others (specify),2.7,921
+Location,Rural,BNP,42.2,3433
+Location,Rural,Awami League,14.2,3433
+Location,Rural,Jatiya Party,0.9,3433
+Location,Rural,Bangladesh Jamaat E Islami,31.9,3433
+Location,Rural,Islami Andolon Bangladesh,2.3,3433
+Location,Rural,Student led new political party,4.1,3433
+Location,Rural,AB Party,0.0,3433
+Location,Rural,Gono Odhikar Parishad,0.5,3433
+Location,Rural,Gono Sanghati Andolon,0.3,3433
+Location,Rural,Others (specify),3.4,3433

@@ -1,0 +1,24 @@
+demographic_category,subcategory,percentage,sample_size
+Residence,Rural,71,7551
+Residence,Urban,29,3145
+Gender,Male,55,5897
+Gender,Female,45,4782
+Age Group,Gen Z (18-28 years),36,3852
+Age Group,Millennials (29-44 years),34,3627
+Age Group,Gen X (45-60 years),18,1925
+Age Group,Boomers II,8,854
+Age Group,Boomers I,3,320
+Age Group,Post War,1,107
+Religion,Muslim,89,9519
+Religion,Hindu,10,1069
+Religion,Christian,1,107
+Ethnicity,Bangali,98,10482
+Ethnicity,Ethnic households,2,214
+Division,Dhaka,26,2782
+Division,Chattagram,19,2033
+Division,Rajshahi,13,1391
+Division,Khulna,12,1283
+Division,Rangpur,11,1175
+Division,Mymensingh,7,747
+Division,Sylhet,6,646
+Division,Barishal,6,640

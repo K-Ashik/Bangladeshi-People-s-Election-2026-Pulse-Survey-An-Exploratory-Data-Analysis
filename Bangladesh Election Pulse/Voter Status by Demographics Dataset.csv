@@ -1,0 +1,31 @@
+demographic_group,demographic_category,status,percentage,sample_size
+Age,Gen Z (18-28 years),Yes,55.15,3900
+Age,Gen Z (18-28 years),No,33.64,3900
+Age,Gen Z (18-28 years),I cannot comment,11.21,3900
+Age,Millennials (29-44 years),Yes,64.91,3631
+Age,Millennials (29-44 years),No,28.06,3631
+Age,Millennials (29-44 years),I cannot comment,7.02,3631
+Age,Gen X (45-60 years),Yes,67.00,1927
+Age,Gen X (45-60 years),No,25.53,1927
+Age,Gen X (45-60 years),I cannot comment,7.47,1927
+Age,Boomers II (61-70 years),Yes,66.46,808
+Age,Boomers II (61-70 years),No,25.99,808
+Age,Boomers II (61-70 years),I cannot comment,7.55,808
+Age,Boomers I (71-79 years),Yes,67.43,350
+Age,Boomers I (71-79 years),No,26.00,350
+Age,Boomers I (71-79 years),I cannot comment,6.57,350
+Age,Post War (80-97 years),Yes,73.75,80
+Age,Post War (80-97 years),No,21.25,80
+Age,Post War (80-97 years),I cannot comment,5.00,80
+Gender,Male,Yes,66.02,5897
+Gender,Male,No,25.81,5897
+Gender,Male,I cannot comment,8.17,5897
+Gender,Female,Yes,56.98,4782
+Gender,Female,No,33.77,4782
+Gender,Female,I cannot comment,9.24,4782
+Location,Urban,Yes,52,3145
+Location,Urban,No,35,3145
+Location,Urban,I cannot comment,14,3145
+Location,Rural,Yes,66,7551
+Location,Rural,No,27,7551
+Location,Rural,I cannot comment,7,7551

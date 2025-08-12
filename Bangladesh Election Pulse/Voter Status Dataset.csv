@@ -1,0 +1,14 @@
+status_type,status,percentage,sample_size
+Voter Status,Yes (decided),62.0,10696
+Voter Status,No (undecided),29.4,10696
+Voter Status,I cannot comment,8.6,10696
+Voting Preference Status,Revealed,65.7,6631
+Voting Preference Status,Not revealed,34.3,6631
+Reason for being undecided,Not sure who the candidate will be,49.3,3141
+Reason for being undecided,I generally make my decision based on the political situation before the election,33.9,3141
+Reason for being undecided,I am not thinking about the election,14.9,3141
+Reason for being undecided,I do not trust mainstream political parties,9.7,3141
+Reason for being undecided,I cannot comment,6.5,3141
+Reason for being undecided,I don't know if my favorite party will participate in the election,6.1,3141
+Reason for being undecided,I do not see any alternative political parties,3.7,3141
+Reason for being undecided,Others,0.6,3141
